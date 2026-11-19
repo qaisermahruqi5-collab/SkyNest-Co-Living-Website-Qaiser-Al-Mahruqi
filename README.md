@@ -2,6 +2,9 @@
 
 Website for SkyNest Co-Living Spaces, made by Qaiser Al Mahruqi for BTEC Level 3 IT Unit 6: Website Development.
 
+## Links
+- GitHub repository: https://github.com/qaisermahruqi5-collab/SkyNest-Co-Living-Website-Qaiser-Al-Mahruqi.git
+
 ## Pages
 - `home.html` – Home
 - `about.html` – About
